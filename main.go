@@ -20,7 +20,7 @@ func Error(msg string) error {
 }
 
 const (
-	Version = "4.0.1"
+	Version = "for esap4.0"
 )
 
 var debug = flag.String("d", "off", "if on debug mode")
